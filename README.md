@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=life-banana-project&show_icons=true&locale=en" alt="life-banana-project" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=life-banana-project&" alt="life-banana-project" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=life-banana-project&" alt="life-banana-project" /></p>
