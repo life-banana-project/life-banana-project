@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/channel/UCkR4zzc1ZhyVBFKfc3Mo26A">
+    <img src="./banner.jpg" alt="Banner">
+</a>
+
 <h1 align="center">Hi 👋, we're Banana Project</h1>
 <h3 align="center">Just channel with big ambitions</h3>
 
