@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 We're currently working on [New Video in our channel]([https://www.youtube.com/@Banana-Project](https://www.youtube.com/@Banana-Project))
+- 🔭 We're currently working on [New Video in our channel](https://www.youtube.com/@Banana-Project)
 
 - 🌱 We're currently learning **New**
 
